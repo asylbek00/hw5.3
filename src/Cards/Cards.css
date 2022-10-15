@@ -1,0 +1,26 @@
+.card1{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: rgb(64, 176, 87);
+    margin-top: 20px;
+    margin: 0 auto;
+    
+}
+.card2{
+    display: flex;
+    justify-content: space-around;
+    box-sizing: content-box;
+    gap: 20px;
+    background-color: rgb(176, 166, 134);
+    margin-top: 20px;
+
+}
+.card3{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(182, 111, 164);
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
